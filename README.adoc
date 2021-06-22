@@ -1,0 +1,12 @@
+= chitoge-discord-bot
+
+== What?
+
+A discord bot written in JavaScript using link:https://github.com/discordjs/discord.js[discord.js] for personal use.
+
+== How?
+
+The structure is based on the link:https://discordjs.guide/[Discord.js Guide].
+
+== LICENSE
+TBD.
