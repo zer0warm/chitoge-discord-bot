@@ -9,4 +9,5 @@ A discord bot written in JavaScript using link:https://github.com/discordjs/disc
 The structure is based on the link:https://discordjs.guide/[Discord.js Guide].
 
 == LICENSE
-TBD.
+
+link:LICENSE[MIT].
