@@ -43,7 +43,7 @@ client.on('message', message => {
   console.log(`User ${author} from server ${server} said: ${message.content}`);
 });
 
-process.on('SIGTERM', () => {
+process.on('SIGINT', () => {
   client.user.setStatus('invisible');
   client.destroy();
   console.log('Server exiting...');
